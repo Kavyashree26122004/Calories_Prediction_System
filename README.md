@@ -1,2 +1,2 @@
 # Calories_Prediction_System
-Machine Learning project to predict burned calories
+Machine Learning model to predict burned calories
